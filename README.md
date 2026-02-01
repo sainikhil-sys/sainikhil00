@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+  I’m **Sai Nikhil**, a Computer Science Engineering (Data Science) undergraduate from **Malla Reddy University, Hyderabad**.
+
+🔭 I’m currently working on **real-world full-stack and backend-focused projects**, including platforms like **ExpoShip** (logistics) and **Trash2Treasure** (sustainability & system design).
+<br>👯 I’m looking to collaborate on **problem-driven projects** involving web applications, backend systems, APIs, or data-centric solutions — not tutorial or clone apps.
+<br>🤝 I’m looking for help with **scaling applications, clean architecture, and improving system design decisions** as projects grow.
+<br>🌱 I’m currently learning **advanced backend development, REST API design, database optimization, and real-time application workflows**.
+<br>💬 Ask me about **Django, Django REST Framework, full-stack development, project architecture, or startup-oriented tech solutions**.
+<br>⚡ Fun fact: I learn fastest by **building, breaking, and fixing things**, not by watching endless tutorials.
+
 
 
 ## 🌐 Socials:
